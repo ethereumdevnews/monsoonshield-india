@@ -58,4 +58,4 @@ The application uses a parametric insurance model with:
 
 ## License
 
-ISC
+MIT
